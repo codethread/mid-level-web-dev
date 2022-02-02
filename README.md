@@ -54,3 +54,46 @@ build things. Once you've come to hate your own creations,
 congratulations, welcome to the club, you're now ready to learn about
 [clean code](https://www.youtube.com/watch?v=7EmboKQH8lM&list=PLmmYSbUCWJ4x1GO839azG_BBw8rkh-zOj&t=221s).
 
+
+# Tasks
+## Fundamentals
+### HTML
+### CSS
+### JavaScript
+### Node.js
+### HTTP
+#### HTTPS
+#### REST
+#### GraphQL
+#### Cookies
+#### Headers
+#### Iframe
+### Processed to JavaScript / CSS
+#### TypeScript
+#### SCSS / SASS
+#### Awareness of others
+
+Google the following, see if you can get the gist of what they are
+trying to do and why someone might want to use it over JavaScript
+
+- Elm
+- ClojureScript
+
+### Web Assembly
+
+- [ ] At a high level what is Web Assembly?
+- [ ] What is a potential use case for Web Assembly?
+
+## Component 'Frameworks'
+### React
+#### React Hooks
+#### React Redux
+### Next.js
+### Svelte
+## Testing
+### JavaScript Testing
+### Component Testing
+### Browser Testing
+## Project Setup / Tooling
+
+## Projects
