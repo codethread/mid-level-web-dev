@@ -42,13 +42,12 @@ tool, so one should repeat certain tasks enough until the appropriate
 skill is internalised, creating a firm foundation for further skills
 to build upon.
 
-To my mind a developer who is someone that can make something work,
-and their journey towards senior is understanding how to build
-something that will *also* scale.
+At this entry level, focus on completing a task, don't obssess over
+performance, scalable, or 'clean' code.
 
 You won't know clean code until you have stumbled and fallen face
 first into your own filth laden code - ideally with a good mix of
-other people's too to really push the point home. You need to write a
+other people's too, to really push the point home. You need to write a
 lot of code, which means repetition, practice, and enthusiasm to just
 build things. Once you've come to hate your own creations,
 congratulations, welcome to the club, you're now ready to learn about
